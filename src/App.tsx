@@ -4,7 +4,7 @@ export const App = () => (
   <h1
     className={css({
       display: "block",
-      color: "red.600",
+      color: "primary",
     })}
   >
     Hello world
